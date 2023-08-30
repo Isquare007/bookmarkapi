@@ -24,7 +24,9 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+A Bookmark API.
+Can create and User
+Add bookmark title, description and link
 
 ## Installation
 
@@ -64,9 +66,9 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
+- Author - [Ibrahim Ibrahim](https://ibrahimibrahim.webflow.io/)
 - Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Twitter - [@ibrahhiiiiim](https://twitter.com/ibrahhiiiiim)
 
 ## License
 
